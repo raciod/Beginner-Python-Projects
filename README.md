@@ -10,6 +10,12 @@ _____
 - **``QR Code Generator``**
 - **``Quiz Program``**
 - **``Random Password Generator``**
+- **``Dice Rolling Simulator``**
+- **``Site Connectivity Checker``**
+- **``Currency Converter``**
+- **``Leap Year Checker``**
+- **``Word Dictionary``**
+- **`` ``**
 
 
 
